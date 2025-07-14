@@ -305,3 +305,35 @@ textarea::placeholder {
   width: 100%;
   padding: 19px 0px;
 }
+
+/* footer css */
+
+footer {
+  padding: 104px 455px;
+}
+
+footer .logo {
+  font-size: 100px;
+  font-weight: 900px;
+  margin-bottom: 8px;
+}
+
+.footer-description {
+  color: #8987a1;
+  margin-bottom: 20px;
+}
+
+.footer-links li {
+  list-style: none;
+}
+
+.footer-links li a {
+  text-decoration: none;
+  color: #8987a1;
+}
+
+.footer-links ul {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 65px;
+}
