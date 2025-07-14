@@ -144,6 +144,7 @@ nav {
 .productive-user-tittle {
   font-size: 38px;
   font-weight: bold;
+  margin-bottom: 40px;
 }
 
 .item-title {
@@ -170,6 +171,7 @@ nav {
 
 .user-feedback {
   margin: 89px 150px;
+  text-align: left;
 }
 
 .user-feedback-title {
@@ -203,7 +205,6 @@ nav {
 
 .user-info {
   display: flex;
-  align-items: center;
   gap: 10px;
 }
 .user-info img {
@@ -272,6 +273,7 @@ nav {
 .get-in-touch-title {
   font-size: 97px;
   font-weight: bold;
+  text-align: left;
 }
 
 .get-in-touch-column input,
@@ -298,6 +300,7 @@ textarea::placeholder {
   font-weight: 500;
   display: block;
   margin-bottom: 10px;
+  text-align: left;
 }
 
 .get-in-touch-column textarea {
