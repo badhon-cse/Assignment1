@@ -247,3 +247,61 @@ nav {
   display: block;
   margin: 0 auto;
 }
+
+/* lets get in touch  */
+
+.lets-get-in-touch {
+  display: flex;
+  align-items: center;
+  margin: 0px 150px;
+  margin-top: 90px;
+  padding: 90px 0;
+}
+
+.get-in-touch-column {
+  width: 50%;
+}
+
+.get-in-touch-title {
+  font-size: 97px;
+  font-weight: bold;
+}
+
+.get-in-touch-column input,
+textarea {
+  height: 70px;
+  border-radius: 10px;
+  background-color: white;
+  display: block;
+  width: 100%;
+  border: 1px solid #d6dded;
+  margin-bottom: 20px;
+}
+
+.get-in-touch-column input::placeholder,
+textarea::placeholder {
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: normal;
+  padding-left: 32px;
+}
+
+.get-in-touch-column label {
+  font-size: 18px;
+  font-weight: 500;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.get-in-touch-column textarea {
+  height: 135px;
+}
+
+.get-in-touch-column textarea::placeholder {
+  padding-top: 20px;
+}
+
+.get-in-touch-btn {
+  width: 100%;
+  padding: 19px 0px;
+}
