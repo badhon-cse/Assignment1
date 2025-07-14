@@ -115,3 +115,46 @@ nav {
   color: rgba(37, 36, 50, 0.5);
   margin-bottom: 23px;
 }
+
+/* Productive user */
+
+.productive-user {
+  padding: 50px 142px;
+  margin: 48px 150px;
+  background-color: rgba(78, 71, 255, 0.1);
+  border-radius: 24px;
+}
+
+.productive-user ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.productive-user ul li {
+  list-style: none;
+}
+
+.productive-user-tittle {
+  font-size: 38px;
+  font-weight: bold;
+}
+
+.item-title {
+  font-size: 80px;
+  font-weight: bold;
+  color: #4e47ff;
+  padding: 0;
+  margin: 0;
+}
+
+.item-description {
+  font-size: 20px;
+  font-weight: normal;
+  color: rgba(0, 0, 0, 0.5);
+  padding: 0;
+  margin: 0;
+}
+.productive-items {
+  padding: 0;
+  margin: 0;
+}
